@@ -5,7 +5,7 @@ var NUM_PARTICLES = ( ( ROWS = 100 ) * ( COLS = 300 ) ),
     MARGIN = 100,
     COLOR = 220,
     DRAG = 0.95,
-    EASE = 0.5,
+    EASE = 0.25,
     
     /*
     
