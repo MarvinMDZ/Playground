@@ -1,0 +1,14 @@
+body,section,canvas{
+	margin: 0;
+	padding: 0;
+}
+section{
+	width: 100%;
+	text-align: center;
+	padding: 10px 0;
+}
+canvas{
+	position: relative;
+	width: 640px;
+	height: 360px;
+}
